@@ -23,7 +23,8 @@ console.log(num/d)
 /* exercicio 9*/
 console.log('exercicio 9')
 let name= 'Mariia Levina'
-console.log(name.slice(7,13))
+console.log(name.slice(7,13) + ' tiene '+name.slice(7,13).length+' caracters')
+
 
 
 /* exercicio 10*/
